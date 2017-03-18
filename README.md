@@ -6,3 +6,5 @@ virtual Box version 5.1.18
 vagrant 1.9.2
 ubuntu  Ubuntu 12.04 LTS (GNU/Linux 3.2.0-23-generic x86_64)
 vbguest in guest VBoxGuestAdditions-5.12
+4. http://kbroman.org/github_tutorial/pages/init.html
+5. http://kbroman.org/github_tutorial/pages/first_time.html
